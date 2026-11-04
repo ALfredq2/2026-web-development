@@ -1,19 +1,17 @@
 div, span{
-    border:1px solid blueviolet;
+    border:5px solid blueviolet;
     padding: 10px;
     margin: 10px;
-    font-family: italic;
+    font-style: italic;
 }
-h1{
+.logo{
     color:blueviolet;
     Font-size: 40pt;
     Font-style: italic;
     font-weight: bold;
     font-family: Garamond;
 }
-div{
-    color: blueviolet;
-}
 #funny{
+    color:blueviolet;
     font-family: Comic Sans MS;
 }
