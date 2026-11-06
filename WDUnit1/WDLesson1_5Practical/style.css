@@ -4,14 +4,29 @@ div, span{
     margin: 10px;
     font-style: italic;
 }
+.container{
+    border:5px solid orange;
+    background-color:orange;
+}
 .logo{
-    color:blueviolet;
+    color:purple;
     Font-size: 40pt;
     Font-style: italic;
     font-weight: bold;
     font-family: Garamond;
 }
-#funny{
-    color:blueviolet;
+#hyperlinks{
+    border:5px solid blueviolet;
+    background-color:blueviolet;   
+}
+#heading{
+    color:purple;
     font-family: Comic Sans MS;
 }          
+#images{
+    color:purple;
+    Font-size: 40pt;
+    Font-style: italic;
+    font-weight: bold;
+    font-family: Garamond;
+}
