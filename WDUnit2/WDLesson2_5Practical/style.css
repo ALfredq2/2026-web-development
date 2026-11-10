@@ -9,6 +9,7 @@
 #banner{
     color:rgb(125,0,255);
     border:5px solid blueviolet;
+    background-color:yellow;
     Font-size: 40pt;
     Font-style: italic;
     font-weight: bold;
