@@ -8,11 +8,14 @@
 */
 #banner{
     color:rgb(125,0,255);
+    border:5px solid blueviolet;
     Font-size: 40pt;
     Font-style: italic;
     font-weight: bold;
     font-family: Garamond;
     text-align:center;
+    padding: 10px;
+    margin: 10px;
 
 }
 /* Challenge 10: Change the background color for all elements with a class of subbanner.  Choose a color
