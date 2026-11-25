@@ -6,10 +6,10 @@ div, span{
     background-color:rgb(125,0,255);
 }
 .container{
-    border:5px solid orange;
-    background-color:orange;
+    border:5px solid red;
+    background-color:blue;
 }
-.logo{
+#logo{
     color:purple;
     border:5px solid blueviolet;
     background-color:rgb(125,0,255);
@@ -20,15 +20,15 @@ div, span{
     text-align:center;
 }
 #hyperlinks{
-    border:5px solid blueviolet;
+    border:5px solid yellow;
     background-color:blueviolet;   
 }
 #heading{
-    color:purple;
+    color:green;
     font-family: Comic Sans MS;
 }          
 #images{
-    color:purple;
+    color:orange;
     Font-size: 40pt;
     Font-style: italic;
     font-weight: bold;
