@@ -1,7 +1,7 @@
 div, span{
     border:5px solid blueviolet;
-    padding: 10px;
-    margin: 10px;
+    padding:10px;
+    margin:10px;
     font-style: italic;
     background-color:rgb(125,0,255);
 }
@@ -9,28 +9,50 @@ div, span{
     border:5px solid red;
     background-color:blue;
 }
+.subbanner{
+    border:5px solid orange;
+    background-color:hotpink;
+}
+.banner{
+    border:5px solid yellow;
+    background-color:skyblue;
+}
+#links{
+    color:magenta;
+    Font-size:40pt;
+    Font-style:italic;
+    font-weight:bold;
+    font-family:Times;
+}
+#banner{
+    color:cyan;
+    font-family:Arial;
+    Font-size:40pt;
+    Font-style:italic;
+    font-weight:bold;
+}          
 #logo{
     color:purple;
     border:5px solid blueviolet;
     background-color:rgb(125,0,255);
-    Font-size: 40pt;
-    Font-style: italic;
-    font-weight: bold;
-    font-family: Garamond;
+    Font-size:40pt;
+    Font-style:italic;
+    font-weight:bold;
+    font-family:Garamond;
     text-align:center;
 }
 #hyperlinks{
-    border:5px solid yellow;
-    background-color:blueviolet;   
+    border:5px solid blueviolet;
+    background-color:rgb(125,0,255);   
 }
 #heading{
     color:green;
-    font-family: Comic Sans MS;
+    font-family:Comic Sans MS;
 }          
 #images{
-    color:orange;
-    Font-size: 40pt;
-    Font-style: italic;
-    font-weight: bold;
-    font-family: Garamond;
+    color:purple;
+    Font-size:40pt;
+    Font-style:italic;
+    font-weight:bold;
+    font-family:Garamond;
 }
